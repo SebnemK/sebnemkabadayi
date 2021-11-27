@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    text-align: center;
+    /* font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;  */
+    /* font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;  */
+    font-family: 'Dosis', sans-serif;  /* Embed edilen fontu kullan diyoruz genel olarak */
+    font-size: 120%  /* 18px */
+}
+
+h1{
+    margin-top:30px;
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.75rem;  /* 60px */
+    color: rgb(160, 108, 71);
+  }
+
+h2{
+    font-size: 2rem;  
+    font-weight: normal;
+    color: rgb(211, 184, 134);
+  }
+
+.acknowledgement {
+    font-size: 1rem;
+}
+
+.align-right{
+    text-align: right;
+  }
+
+.bottom-container{
+    background-color: #FED2AA;
+    padding: 50px;
+}
+
+.cv, .simple-life {
+    width: 75%;
+    margin: 100px auto 100px auto;  /* margin:auto; demezsek width 50%  ile ekranın soluna yapışık başlar ve yüzde ellisini kaplar merkezde yer almaz */
+    text-align: left;
+  }
+.icon{
+    width: 30px;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.middle-container{
+    background-color: #F3F0D7;
+    padding: 50px;
+}
+
+/* .sakura{
+    position: absolute;
+} */
+
+.sakura{
+    float: right;
+    padding-left: 30px;
+    width: 400px;
+    height: 300px;
+}
+
+
+.top-container{
+    background-color: #CEE5D0;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.undline{
+    text-transform:uppercase;
+    padding-right: 4px;
+}
+
+.wave{
+   float: left;
+    width: 400px;
+    height: 300px;
+    margin: 0 30px 30px 0;
+
+}
+.zen-garden{
+    width: 250px;
+    height: 150px;
+}
+
+#email {
+    padding-right: 20px;
+    color: rgb(223, 88, 25);
+}
+#website{
+    padding-left: 20px;
+}
