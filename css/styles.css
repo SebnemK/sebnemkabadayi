@@ -34,6 +34,10 @@ h2{
     padding: 50px;
 }
 
+.copyright{
+    font-size: 1rem;
+    margin-top: 60px;
+}
 .cv, .simple-life {
     width: 75%;
     margin: 100px auto 100px auto;  /* margin:auto; demezsek width 50%  ile ekranın soluna yapışık başlar ve yüzde ellisini kaplar merkezde yer almaz */
