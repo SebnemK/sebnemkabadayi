@@ -1,0 +1,55 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+h1 {
+  font-size: 80px;
+}
+h2, h3 {
+  font-size: 40px;
+}
+
+h3 {
+  font-family: "Waterfall", cursive;
+}
+
+.greeting {
+  background-color: #cee5d0;
+  padding: 15rem 0 15rem 0;
+  font-family: "Waterfall", cursive;
+}
+
+.who-am-i {
+  background-color: #f3f0d7;
+}
+
+.beginning {
+  background-color: #cee5d0;
+  text-align: left;
+}
+
+
+.contact-me {
+  background-color: #f3f0d7;;
+  padding: 50px;
+  text-align: center;
+}
+
+.sakura {
+  float: right;
+  width: 400px;
+  height: 300px;
+  margin-left: 2rem;
+}
+
+#email {
+  padding-right: 20px;
+  color: rgb(223, 88, 25);
+}
+
+@media (max-width: 768px) {
+  .wave {
+    width: 200px;
+    height: 150px;
+  }
+}
